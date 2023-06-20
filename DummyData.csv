@@ -1,0 +1,22 @@
+﻿ID Number,Date,Product,Region,Sales Method,Price per unit,Cost per unit
+10010,01-01-2022,iphone,EMEA,In-store,"1,099",289
+10011,01-01-2022,iphone,North America,Third Party,"1,099",289
+10012,01-01-2022,macbook,APAC,Online Store,"1,299",459
+10013,01-01-2022,ipad,South America,Referral,599,299
+10014,01-01-2022,iwatch,South America,Online Store,449,159
+10015,01-01-2022,airpod,South America,Online Store,199,39
+10016,04-01-2022,airpod,South America,In-store,199,39
+10017,07-01-2022,airpod,EMEA,Online Store,199,39
+10018,10-01-2022,iphone,North America,Online Store,1099,289
+10019,13-01-2022,macbook,APAC,In-store,"1,299",459
+10020,16-01-2022,macbook,APAC,In-store,"1,299",459
+10021,19-01-2022,airpod,APAC,In-store,199,39
+10022,22-01-2022,iphone,EMEA,In-store,1099,289
+10023,25-01-2022,iwatch,North America,In-store,449,159
+10024,04-02-2022,ipad,APAC,In-store,599,299
+10025,05-02-2022,iwatch,APAC,Referral,449,159
+10026,06-02-2022,iphone,APAC,Referral,1099,289
+10027,07-02-2022,iwatch,EMEA,Third Party,449,159
+10028,08-02-2022,iphone,APAC,Referral,1099,289
+10029,08-02-2022,macbook,APAC,Referral,"1,299",459
+10030,08-02-2022,iphone,APAC,Online Store,1099,289
